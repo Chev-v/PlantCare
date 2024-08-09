@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YG0/pCVb4swaNDz6/+Eyz38XlX/gk1odY+LIjHFlD5gusfIIjhPh/MoaZEg4RpCtd/rKIxAFwnXhKXXN/ZDolA==",
+  "dgSpecHash": "ONDYcYHEZUmHVoL/ieUzyikjLnwTR2sqc3QK+j3GMOZARMKo7EiyYtEIvHbiFgXsH6ZYiy7ADepjlICjNdLFkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chubbay\\Desktop\\Adv java\\PlantCareApp\\PlantCareApp\\PlantCareApp.csproj",
+  "projectFilePath": "C:\\Users\\Chubbay\\Documents\\GitHub\\PlantCare\\PlantCareApp\\PlantCareApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chubbay\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Chubbay\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

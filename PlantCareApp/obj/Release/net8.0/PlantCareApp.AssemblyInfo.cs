@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlantCareApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00ad8c9a0461520f9a2575431b2aedd4e5899647")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlantCareApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlantCareApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

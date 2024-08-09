@@ -8330,11 +8330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chubbay\\Desktop\\Adv java\\PlantCareApp\\PlantCareApp\\PlantCareApp.csproj",
+      "projectUniqueName": "C:\\Users\\Chubbay\\Documents\\GitHub\\PlantCare\\PlantCareApp\\PlantCareApp.csproj",
       "projectName": "PlantCareApp",
-      "projectPath": "C:\\Users\\Chubbay\\Desktop\\Adv java\\PlantCareApp\\PlantCareApp\\PlantCareApp.csproj",
+      "projectPath": "C:\\Users\\Chubbay\\Documents\\GitHub\\PlantCare\\PlantCareApp\\PlantCareApp.csproj",
       "packagesPath": "C:\\Users\\Chubbay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chubbay\\Desktop\\Adv java\\PlantCareApp\\PlantCareApp\\obj\\",
+      "outputPath": "C:\\Users\\Chubbay\\Documents\\GitHub\\PlantCare\\PlantCareApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chubbay\\AppData\\Roaming\\NuGet\\NuGet.Config",
