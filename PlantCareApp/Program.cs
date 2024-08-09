@@ -93,7 +93,7 @@ else
     app.UseHsts(); // Enforce HTTPS for security
 }
 
-app.UseHttpsRedirection(); // Redirect HTTP requests to HTTPS
+app.UseHttpsRedirection(); // Ensure HTTP requests are redirected to HTTPS
 app.UseStaticFiles(); // Serve static files like images, CSS, and JavaScript
 
 app.UseRouting(); // Enable routing for handling requests
