@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1 class="display-4">Welcome to PlantCareApp</h1>
+    <p class="lead">Your one-stop solution for managing your plants and their maintenance tasks.</p>
+    <hr class="my-4">
+    <p>Get started by exploring your plants or scheduling a maintenance task.</p>
+    <a class="btn btn-primary btn-lg" asp-controller="Plants" asp-action="Index" role="button">View Plants</a>
+    <a class="btn btn-secondary btn-lg" asp-controller="MaintenanceTasks" asp-action="Index" role="button">View Maintenance Tasks</a>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Manage Plants</h2>
+        <p>Keep track of all your plants, their details, and the tasks needed to keep them healthy.</p>
+        <a class="btn btn-primary" asp-controller="Plants" asp-action="Index">Manage Plants &raquo;</a>
+    </div>
+    <div class="col-md-4">
+        <h2>Schedule Tasks</h2>
+        <p>Schedule maintenance tasks like watering, pruning, and fertilizing to ensure your plants thrive.</p>
+        <a class="btn btn-secondary" asp-controller="MaintenanceTasks" asp-action="Index">Schedule Tasks &raquo;</a>
+    </div>
+    <div class="col-md-4">
+        <h2>About Us</h2>
+        <p>Learn more about PlantCareApp and how we help you keep your plants healthy and happy.</p>
+        <a class="btn btn-info" asp-controller="Home" asp-action="Privacy">Learn More &raquo;</a>
+    </div>
+</div>
